@@ -6,3 +6,23 @@ body {
 .em-text{
   color: blueviolet !important; 
 }
+
+
+h1{
+color: #008000;
+    font-family: 'Patua One', cursive;
+}
+
+h2{
+    font-family: 'Playball', cursive;
+color: #FF0000;
+}
+
+.jumbotron{
+background-color: #0DFF96;
+}
+
+.jumbotron h1{
+color: #008000;
+     font-family: 'Patua One', cursive;
+}
